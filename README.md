@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently exploring on Mobile Development (Flutter)<br>👯 I’m looking to collaborate on UI/UX<br>🤝 I’m looking for help with UI/UX Designer<br>🌱 I’m Fresh Graduate Informatics Engineering
+🔭 I’m currently exploring on Mobile Development (Flutter)<br>👯 I’m looking to collaborate on UI/UX<br>🤝 I’m looking for help with UI/UX Designer<br>🌱 I’m Graduated from Informatics Engineering
 
 
 ## 🌐 Socials:
